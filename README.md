@@ -28,7 +28,19 @@
 
 ---
 
-## 🤔 What Is This Sorcery?
+### 2. Random Packet Generator
+Python-based tool for generating random network packets with support for TCP, UDP, and ICMP protocols. Useful for testing, simulation, and educational purposes.
+
+**Files:**
+- `random_packet.py` - Core packet generation library
+- `cli.py` - Command-line interface for packet generation
+- `test_random_packet.py` - Unit tests
+
+---
+
+## Traffic Noise Generator
+
+## Features
 
 > *"If you can't hide, overwhelm."* — Sun Tzu, probably
 
