@@ -21,7 +21,7 @@
 [Features](#-features) •
 [Installation](#-installation) •
 [Usage](#-usage) •
-[How It Works](#-how-it-works) •
+[Architecture](#-architecture) •
 [VPS Setup](#-vps-setup)
 
 </div>
