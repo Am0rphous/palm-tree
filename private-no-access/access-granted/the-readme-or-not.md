@@ -1,3 +1,5 @@
+# this readme is packed with info... some slightly hidden. the code itself is filled with easter eggs
+
 # 🌪️ Traffic Noise Generator
 
 <div align="center">
