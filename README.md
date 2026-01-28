@@ -655,7 +655,12 @@ If this tool saved you from targeted ads about that embarrassing thing you googl
 # Install new dependencies
 pip install faker playwright
 playwright install chromium
+
+# Install (if prompted)
 playwright install
+
+# Install dependencies manually (if the playwright install fails)
+sudo apt install libxcursor1 libxdamage1 libxi6 libgtk-3-0t64 libatk1.0-0t64 libasound2t64
 
 # Run Coconut Mode (headless browsers)
 python coconuts.py --coconuts --clones 3
