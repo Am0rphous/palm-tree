@@ -1,17 +1,13 @@
 # Security Policy
 
-this repo is protected by Jedi Forces.
-Following the law is smart.
-Otherwise you may face consequences.
+#This repo is protected by Jedi Forces.
 
-Sooo be smart. Follow the law. Don't abuse.
+#You are expected to follow the law. 
+#Don't abuse nor misuse.
+#But most of all... 
+#➡️LEARN & HAVE FUN !❕!❕!❕!❕!❕!❕!❕
 
-And most of all... 
-
-➡️LEARN & HAVE FUN !❕!❕!❕!❕!❕!❕!❕
-
-
- 🌴 palm-tree and community
+ ### 🌴 palm-tree and community
  
 
 
