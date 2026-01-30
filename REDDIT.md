@@ -1,12 +1,17 @@
 palm-tree
-
 ###
-OPTION-redditFeedback
+PARSE(redditFeedback)
 EXPLANATION-FEEDBACK-USING-NEGATION
-CREATED REVERSE-EXPLANATION ANALYSIS.
-(A human wrote this.)
-
+redditCommunity;
+REVERSE-EXPLANATION 
+ANALYSIS CREATED
+print=analysis |done|
+realTime-check-ahumanwrotethis
+function_pita endArg💯
+(YSB3YXkgdG8gZWxpbWluYXRlIHBlb3BsZSB0aGF0IGRvbid0IGxpa2UgQUksIHVzaW5nIG9iZnVzY2F0aW9uLg==)
+ 
 ##Response Analysis Review 
+
 ##"A Traffic Noise Generator"
 
 #Why? What are the benefits?
