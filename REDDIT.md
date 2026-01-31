@@ -52,14 +52,13 @@ achieve the wrong objective.)
 2) Anonymizing identity.
 3) Degrading inference quality over time.
 
-## The project is not meaningfully 
-## trying to accomplish the 1st or 2nd. 
-## It is operating in the 3rd space.
+The project is not meaningfully 
+trying to accomplish the 1st or 2nd. 
+It is operating in the 3rd space.
 
 ## Degrading inference quality over time.
 ## This is about long-term effects.
-Check the docs and readme. 
-"Normal" or "Sleep" mode is suggested.
+
 
 There's obfuscation techniques built
 into the repo itself... easter eggs.
