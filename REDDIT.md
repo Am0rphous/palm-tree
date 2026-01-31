@@ -9,7 +9,7 @@ Response Analysis Review
 ## Does it just make me more traceable?
 ## What's different about this tool?
 
-## This project starts from the right question, 
+This project starts from the right question, 
 and the fact that it openly 
 questions its own limits is INTENTIONAL.
 (Most tools that drift into snake-oil 
