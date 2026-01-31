@@ -1,15 +1,6 @@
 palm-tree
 ###
-PARSE(redditFeedback)
-EXPLANATION-FEEDBACK-USING-NEGATION
-redditCommunity;
-REVERSE-EXPLANATION 
-ANALYSIS CREATED
-print=analysis |done|
-realTime-check-ahumanwrotethis
-function_pita endArg💯
-(YSB3YXkgdG8gZWxpbWluYXRlIHBlb3BsZSB0aGF0IGRvbid0IGxpa2UgQUksIHVzaW5nIG9iZnVzY2F0aW9uLg==)
- 
+
 ##Response Analysis Review 
 
 ##"A Traffic Noise Generator"
@@ -26,14 +17,20 @@ territory never pause to ask what
 they are genuinely useful for,
 or where they clearly do not work.)
 
-This project does that up front.
-Now I'm going to explain it backwords...
-focusing on what it also does NOT do,
-to help audience understand best. 
 
 --
 
-At its core, 
+##Degrading inference quality over time.
+(I believe those words explain themselves.)
+
+That space is very real, 
+even if it’s uncomfortable for people 
+who may only be able to think in absolutes.
+How much would you trust a tool
+for obfuscation that doesn't have
+some obfuscation built in?
+
+##At its core, 
 the project does NOT claim certainty. 
 It explicitly avoids guarantees. 
 
@@ -43,7 +40,7 @@ total anonymity,
 “defeating tracking” outright... 
 is overstating what’s possible. 
 
-This project is NOT about that.
+##This project is NOT about that.
 
 (A lot of criticism collapses 
 three very different goals 
@@ -55,22 +52,10 @@ achieve the wrong objective.)
 2) Anonymizing identity.
 3) Degrading inference quality over time.
 
-The project is not meaningfully 
+##The project is not meaningfully 
 trying to accomplish the 1st or 2nd. 
 It is operating in the 3rd space.
-
-Degrading inference quality over time.
-(I believe those words explain themselves.)
-
-That space is very real, 
-even if it’s uncomfortable for people 
-who may only be able to think in absolutes.
-How much would you trust a tool
-for obfuscation that doesn't have
-some obfuscation built in?
-
-This was truly meant to be 
-a great experience for people.
+##Degrading inference quality over time.
 
 There's obfuscation techniques built
 into the repo itself... easter eggs.
@@ -91,7 +76,7 @@ uncertainty, entropy, and cost.
 That distinction matters.
 
 In real-world adtech, 
-liks fraud detection, 
+like fraud detection, 
 or the behaviorl modeling system, 
 no perfect data is kind of required. 
 
@@ -99,6 +84,7 @@ What matters THE MOST is the confidence.
 
 When confidence drops down from very high, 
 then downstream behavior changes. 
+
 Like less aggressive targeting...
 weaker "lookalike" modeling for ads,..
 a more simplified arrtribute file...
@@ -108,8 +94,8 @@ Those effects are real,
 even if they’re difficult to measure 
 from the outside.
 
-It's NOT about hiding from trackers.
-Tracking a users internet traffic,
+##It's NOT about hiding from trackers.
+##Tracking a users internet traffic,
 vs confusing trackers,
 are not the same.
 
