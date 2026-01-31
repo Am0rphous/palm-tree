@@ -17,12 +17,9 @@ territory never pause to ask what
 they are genuinely useful for,
 or where they clearly do not work.)
 
-
 --
 
 ## Degrading inference quality over time.
-(I believe those words explain themselves.)
-
 That space is very real, 
 even if it’s uncomfortable for people 
 who may only be able to think in absolutes.
@@ -56,9 +53,8 @@ The project is not meaningfully
 trying to accomplish the 1st or 2nd. 
 It is operating in the 3rd space.
 
-## Degrading inference quality over time.
-## This is about long-term effects.
-
+Degrading inference quality over time. 
+This is about the long-term effects.
 
 There's obfuscation techniques built
 into the repo itself... easter eggs.
@@ -72,9 +68,7 @@ tool itself in a few ways to educate...
 
 So. what is and isn't obfuscation? 
 Obfuscation is NOT invisibility. 
-## Obfuscation is about increasing uncertainty, entropy, and cost.
-
-That distinction matters.
+## Obfuscation is about increasing uncertainty, entropy, and cost. That distinction matters.
 
 In real-world adtech, 
 like fraud detection, 
@@ -96,9 +90,7 @@ even if they’re difficult to measure
 from the outside.
 
 It's NOT about hiding from trackers.
-## Tracking a users internet traffic,
-## vs confusing trackers,
-## are not the same.
+## Tracking a users internet traffic, vs confusing trackers, are not the same.
 
 The common claim that 
 “more traffic makes tracking 
@@ -108,8 +100,7 @@ always increases clarity.
 In practice, that only holds 
 when the additional traffic is 
 tightly correlated with the true signal. 
-## When noise is uncorrelated, 
-## it degrades models. 
+## When noise is uncorrelated, it degrades models. 
 
 This is the same principle behind:
 differential privacy, 
@@ -166,15 +157,13 @@ Even demonstrating that a technique
 has limited impact is still useful knowledge, 
 as long as it is presented honestly.
 
-## Claims of real certainty in either 
-## direction... are the real red flag.
+## Claims of real certainty in either direction... are the real red flag.
 
 Anyone asserting they know exactly 
 how much this helps or hurts is overstating 
 their understanding. 
 
-## The modern tracking ecosystem is fragmented, 
-## yet adaptive, and kind of oblique. 
+## The modern tracking ecosystem is fragmented,yet adaptive, and kind of oblique. 
 Even the organizations operating it do not fully 
 understand emergent behavior 
 across layers. 
@@ -192,8 +181,6 @@ it becomes, subtractable.
 
 That does not make novelty magic, 
 but it does make experimentation valuable.
-
-(To note, so far, this update is ... teaching.)
 
 
 What this project deliberately 
@@ -222,9 +209,7 @@ fun while doing so is encouraged.
 
 _
 
-Palm-Tree is a creative and ambitious attempt 
-to frustrate web-tracking systems through 
-realistic traffic noise generation. 
+## Palm-Tree is a creative and ambitious attempt to frustrate web-tracking systems through realistic traffic noise generation. 
 Its use of asynchronous programming, 
 randomized identities, 
 and multiple behavioral modes makes 
