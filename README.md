@@ -28,7 +28,7 @@
 
 ---
 
-### 2. Random Packet Generator
+###  Random Packet Generator
 Python-based tool for generating random network packets with support for TCP, UDP, and ICMP protocols. Useful for testing, simulation, and educational purposes.
 
 **Files:**
@@ -38,9 +38,9 @@ Python-based tool for generating random network packets with support for TCP, UD
 
 ---
 
-## Traffic Noise Generator
+### Traffic Noise Generator
 
-## Features
+### Features
 
 > *"If you can't hide, overwhelm."* — Sun Tzu, probably
 
