@@ -615,7 +615,7 @@ fetch_url() {
     fi
 
     local response
-    response=$(curl "${curl_opts[@]}" "$url" 2>/dev/null)
+    response=$(curl "${curl_opts[@]}" "$url" 2>/dev/null | tr -d '\000')
 
     echo "$response"
 }
